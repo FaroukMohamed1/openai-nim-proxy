@@ -23,7 +23,8 @@ const ENABLE_THINKING_MODE = true; // Set to true to enable chat_template_kwargs
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'gemini-pro': 'qwen/qwen3.5-397b-a17b' ,
-  'zai': 'z-ai/glm5'
+  'zai': 'z-ai/glm5',
+  'k2': 'moonshotai/kimi-k2.5'
 };
 
 // Health check endpoint
