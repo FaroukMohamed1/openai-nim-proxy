@@ -24,6 +24,7 @@ const ENABLE_THINKING_MODE = true; // Set to true to enable chat_template_kwargs
 const MODEL_MAPPING = {
   'gemini-pro': 'qwen/qwen3.5-397b-a17b' ,
   'zai': 'z-ai/glm5',
+  'zai7': 'z-ai/glm4.7',
   'k2': 'moonshotai/kimi-k2.5'
 };
 
